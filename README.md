@@ -10,3 +10,7 @@
 今天还了解了一下ktv算法的实现，音频的处理，即包括人声的消除。可以将这实现一下<p>
 *****
   <table ><tr></tr></table>
+
+## day2
+
+搭建flask，选择看了廖雪峰的博客，廖雪峰的博客，flask的搭建<a href="https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000">python</a>
